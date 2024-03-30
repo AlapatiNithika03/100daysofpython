@@ -1,1 +1,1 @@
-This repository contains all the projects that were made during the learn course of 100 days of python from udemy by angela vu. All of the projects done will be uploaded in this repo for maintaing consistency throughout my learning journey.
+This repository contains all the projects that were made during the course of 100 days of python from udemy by angela vu. All of the projects done will be uploaded in this repo for maintaing consistency throughout my learning journey.
