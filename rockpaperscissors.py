@@ -54,3 +54,5 @@ elif user == 1 and computer == 2:
   print(f"you chose {user} and computer chose {computer}. You lose")
 elif user == 2 and computer == 1:
   print(f"you chose {user} and computer chose {computer}. You win")
+else:
+    print("You chose an invalid number. You lose")
