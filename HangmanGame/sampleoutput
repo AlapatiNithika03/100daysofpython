@@ -1,0 +1,108 @@
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    
+Guess a letter: e
+_ _ _ _ _ e
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+Guess a letter: t
+You guessed t, that's not in the word. You lose a life.
+_ _ _ _ _ e
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+Guess a letter: a
+You guessed a, that's not in the word. You lose a life.
+_ _ _ _ _ e
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+Guess a letter: m
+You guessed m, that's not in the word. You lose a life.
+_ _ _ _ _ e
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess a letter: b
+b _ _ _ _ e
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess a letter: o
+b o _ _ _ e
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+Guess a letter: t
+You guessed t, that's not in the word. You lose a life.
+b o _ _ _ e
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+Guess a letter: g
+b o g g _ e
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+Guess a letter: l
+b o g g l e
+You win.
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
